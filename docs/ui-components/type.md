@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Typography
 parent: UI Components
 nav_order: 1
