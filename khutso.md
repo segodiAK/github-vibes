@@ -1,6 +1,6 @@
 ---
 title: khutso
-layout: home
+layout: home/Home
 ---
 
 sdfgh
