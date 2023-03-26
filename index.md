@@ -1,5 +1,5 @@
 ---
-title: lesego
+title: Home
 layout: home
 ---
 
