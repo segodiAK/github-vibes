@@ -14,6 +14,9 @@ More specifically, the created site:
 
 Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
+![zahub](https://user-images.githubusercontent.com/77273156/227765178-3934494b-5ae0-42be-8d2c-5c72cb42b3df.PNG)
+
+
 [Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
 To get started with creating a site, just click "[use this template]"!
